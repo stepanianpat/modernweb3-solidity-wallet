@@ -1,15 +1,14 @@
-# Basic Sample Hardhat Project
+# Modern Web3.0 Solidity 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Description
 
-Try running some of the following tasks:
+A Modern web3 solidity smart contract application to send transactions across the Hardhat Ethereum development environment
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## Getting Started
+
+### Installing
+
+* Glone current repo
+* run `npm install` in /client/
+* npm run dev
+
