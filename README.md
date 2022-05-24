@@ -2,7 +2,7 @@
 
 ## Description
 
-A Modern web3 solidity smart contract application to send transactions across the Hardhat Ethereum development environment
+A Modern web3 solidity smart contract application to send transactions across the Hardhat Ethereum development environment utilizing react, tailwind.css, & solidity.
 
 ## Getting Started
 
