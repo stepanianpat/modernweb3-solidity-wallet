@@ -8,7 +8,11 @@ A Modern web3 solidity smart contract application to send transactions across th
 
 ### Installing
 
-* Glone current repo
+* `git clone https://github.com/stepanianpat/web3-solidity-wallet.git`
 * run `npm install` in /client/
-* npm run dev
+* run `npm run dev` 
+
+## Version History
+ * 0.1
+
 
